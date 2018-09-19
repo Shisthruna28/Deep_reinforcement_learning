@@ -3,7 +3,7 @@ This implementation uses low dimensional input to control the inverted pendulum 
 
 ## Installation
 
-This software is tested on Ubuntu 16.04(x64) using python3.6, gym==0.10 and Pytorch 0.4.1 with cuda-9.0, cudnn-9.2 and a GTX-1050 GPU. Other versions of tensorflow have not been tested but might work properly above version 1.0.
+This software is tested on Ubuntu 16.04(x64) using python3.6, gym==0.10 and Pytorch 0.4.1 with cuda-9.0, cudnn-9.2 and a GTX-1050 GPU. 
 
 The following methods are provided to install dependencies:
 
