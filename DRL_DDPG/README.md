@@ -31,5 +31,6 @@ Hyperparameter tuning is needed.
 
 
 #Reference
-https://github.com/ShangtongZhang/DeepRL
-https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
+-https://github.com/ShangtongZhang/DeepRL
+
+-https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
