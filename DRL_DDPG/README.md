@@ -30,7 +30,7 @@ Hyperparameter tuning is needed.
 
 
 
-#Reference
+# Reference
 -https://github.com/ShangtongZhang/DeepRL
 
 -https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
