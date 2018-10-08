@@ -27,8 +27,8 @@ The Config.py contains the hyperparameter to be tuned.
 
 
 # Reference
--https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter15
--https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
--https://github.com/ShangtongZhang/DeepRL
--https://github.com/udacity/deep-reinforcement-learning
+- https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter15
+- https://github.com/ikostrikov/pytorch-a2c-ppo-acktr
+- https://github.com/ShangtongZhang/DeepRL
+- https://github.com/udacity/deep-reinforcement-learning
 
