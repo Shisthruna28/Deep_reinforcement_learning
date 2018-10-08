@@ -22,7 +22,8 @@ Specify the path to the pretrained model. e.g.,
 python play.py -m /DRL_PPO/saves/ppo-train/best_+2549.112_1496000.dat
 ```
 
-## Train modelThe train.py trains the PPO agent  and saves the logs in runs directory 
+## Train model
+The train.py trains the PPO agent  and saves the logs in runs directory 
 The Config.py contains the hyperparameter to be tuned.
 
 
